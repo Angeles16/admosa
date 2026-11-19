@@ -1,0 +1,6 @@
+@admosa.Adapters.Http_HostAddress = http://localhost:5223
+
+GET {{admosa.Adapters.Http_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

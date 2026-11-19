@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/admosa.Adapters.Http/admosa.Adapters.Http.csproj" />
+    <Project Path="src/admosa.Application/admosa.Application.csproj" />
+    <Project Path="src/admosa.Domain/admosa.Domain.csproj" />
+    <Project Path="src/admosa.Infraestructure/admosa.Infraestructure.csproj" />
+  </Folder>
+</Solution>
